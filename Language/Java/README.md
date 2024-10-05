@@ -1,6 +1,6 @@
 推荐顺序：
 - [Java基础.md](Java%E5%9F%BA%E7%A1%80.md)
-- [JavaString.md](JavaString.md)
+- [JavaString.md](2-JavaString)
 - [Java集合.md](Java%E9%9B%86%E5%90%88.md)
 - [Java泛型.md](Java%E6%B3%9B%E5%9E%8B.md)
 - [Java枚举.md](Java%E6%9E%9A%E4%B8%BE.md)
@@ -13,4 +13,4 @@
 - [JavaNio.md](JavaIO%2FJavaNio.md)
 - [Java锁.md](Java%E9%94%81.md)
 - [Java新特性](Java新特性)
-- [JavaJVM.md](JavaJVM.md)
+- [JavaJVM.md](12-JavaJVM)
